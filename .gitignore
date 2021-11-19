@@ -21,3 +21,26 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+# java
+target/
+log
+
+# vscode
+.settings
+.project
+.classpath
+.factorypath
+.vscode
+
+# idea
+.idea/
+*.iml
+
+# netbeans
+nbactions.xml
+nb-configuration.xml
+
+# macos
+.DS_Store
